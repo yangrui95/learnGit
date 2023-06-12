@@ -10,3 +10,6 @@ Git has a mutable index called stage.
 
 Remote repository is managed and ready for submission2023.06.12
 Remote repository is managed and ready for submission2023.06.12
+
+
+Creating a new branch is quick.2023.06.12
